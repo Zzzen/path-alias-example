@@ -1,4 +1,6 @@
 import { Button, EMPTY_STRING } from "ui";
+import { FOO_STRING } from "ui-2";
+
 
 export default function Web() {
   return (
