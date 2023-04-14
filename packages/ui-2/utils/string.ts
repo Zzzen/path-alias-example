@@ -1,1 +1,0 @@
-export const FOO_STRING = 'FOO';
